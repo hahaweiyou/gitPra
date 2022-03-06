@@ -11,6 +11,7 @@ public class wowo {
 
     public static void main(String[] args) {
         System.out.println("woaizhongguo");
+        System.out.println("zhongguoxin");
     }
 
 }
